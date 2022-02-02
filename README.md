@@ -5,7 +5,7 @@ this used only when inputs of state machines are success,fail and hand_up values
 this plugin will updated based on different input types found for login animation via rive website.
 
 ## Preview of flutter_rive_login
-![]https://github.com/jaymahaab/flutter_rive_login/blob/main/example/assets/demonstration.gif
+![](https://github.com/jaymahaab/flutter_rive_login/blob/main/example/assets/demonstration.gif)
 
 ## :rocket: Installation
 
