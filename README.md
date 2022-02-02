@@ -9,7 +9,7 @@ this plugin will updated based on different input types found for login animatio
 
 ## :rocket: Installation
 
-This plugin is available on Pub: https://pub.dev/packages/sticker_view
+This plugin is available on Pub: https://pub.dev/packages/flutter_rive_login
 
 Add this to dependencies in your app's pubspec.yaml
 
