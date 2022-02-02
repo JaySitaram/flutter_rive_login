@@ -23,14 +23,6 @@ get: latest_version
 
 <br>
 
-## Available Features
-
-:check:   Eye movement change when textform value  changes </br>
-:check:   When Input are valid then success status otherwise fail status shows</br>
-:check:   Implemented one shot animation and state machine animation</br>
-<br>
-<br>
-
 ## :bookmark: Usage
 Here boolinputList shows input values of state machines which user will use to retrive boolean output if rive asset file
 triggered this boolean value as true or not.and doubleinputlist shows input values of state machines which user will use to
