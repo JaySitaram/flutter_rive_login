@@ -25,11 +25,9 @@ get: latest_version
 
 ## Available Features
 
-:check:   Rotate </br>
-:check:   Resize</br>
-:check:   Move</br>
-:check:   Layer Update (Change Stack position)</br>
-:check:   Delete
+:check:   Eye movement change when textform value  changes </br>
+:check:   When Input are valid then success status otherwise fail status shows</br>
+:check:   Implemented one shot animation and state machine animation</br>
 <br>
 <br>
 
