@@ -5,23 +5,31 @@ this used only when inputs of state machines are success,fail and hand_up values
 this plugin will updated based on different input types found for login animation via rive website.
 
 ## Preview of flutter_rive_login
-https://github.com/jaymahaab/flutter_rive_login/blob/main/example/assets/demonstration.gif
+![]https://github.com/jaymahaab/flutter_rive_login/blob/main/example/assets/demonstration.gif
 
-## 🚀 Installation
-This plugin is available on Pub: https://pub.dev/packages/flutter_rive_login
+## :rocket: Installation
+
+This plugin is available on Pub: https://pub.dev/packages/sticker_view
+
 Add this to dependencies in your app's pubspec.yaml
+
 flutter_rive_login : latest_version
 
 ## Used Packages in this plugin
+
 rive: latest_version
+
 get: latest_version
 
 <br>
+
 ## Available Features
-:check:   Eye movement change when textform value  changes </br>
-:check:   When Input are valid then success status otherwise fail status shows</br>
-:check:   Load different rive asset and its inputs from state machine</br>
-:check:   Implemented oneshot rive animation,rive state machine animation & import asset rive content to artboard</br>
+
+:check:   Rotate </br>
+:check:   Resize</br>
+:check:   Move</br>
+:check:   Layer Update (Change Stack position)</br>
+:check:   Delete
 <br>
 <br>
 
@@ -72,12 +80,11 @@ For further information about rive components,resources and community visit http
 ## ❤️ Found this project useful?
 If you found this project useful, then please consider giving it a ⭐ on Github and sharing it with your friends via social media.
 =======
-**** ## :🪄: Contributing, :disappointed: Issues and :bug: Bug Reports >>>>>>> 8deb8d8fd1809d7a6a317c1ab8975edeb54d8d75 The project is open to public contribution. Please feel very free to contribute. Experienced an issue or want to report a bug? Please, [report it here](https://github.com/jaymahaab/flutter_rive_login/issues). Remember to be as descriptive as possible.
 
 <br>
 
-## :🪄: Contributing, :disappointed: Issues and :bug: Bug Reports
+## :🪄: Contributing, Issues and Bug Reports
 
-8deb8d8fd1809d7a6a317c1ab8975edeb54d8d75
-The project is open to public contribution. Please feel very free to contribute.
-Experienced an issue or want to report a bug? Please, report it here. Remember to be as descriptive as possible.
+                        8deb8d8fd1809d7a6a317c1ab8975edeb54d8d75
+                        The project is open to public contribution. Please feel very free to contribute.
+                        Experienced an issue or want to report a bug? Please, report it here. Remember to be as descriptive as possible.
