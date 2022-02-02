@@ -35,7 +35,6 @@ Sample code to integrate can be found in example/lib/main.dart.
 
 For further information about rive components,resources and community visit https://rive.app/.
 
-## Use of flutter_rive_login
        StateMachineTriggerAnimation(
                     isAsset:
                         true,
